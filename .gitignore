@@ -1,0 +1,10 @@
+results/
+*.fastq
+*.fastq.gz
+*.sam
+*.bam
+*.biom
+*.Rproj
+.Rhistory
+.RData
+.DS_Store
