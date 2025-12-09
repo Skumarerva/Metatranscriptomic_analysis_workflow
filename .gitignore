@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 results/
 *.fastq
 *.fastq.gz
@@ -8,3 +9,6 @@ results/
 .Rhistory
 .RData
 .DS_Store
+=======
+
+>>>>>>> 40d6b9481e38c065368c5c25bb35083b4c70baa4

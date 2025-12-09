@@ -14,4 +14,8 @@ Reproducibility assessment across cohorts
 
 Ecological diversity metrics and differential abundance testing
 
+<<<<<<< HEAD
 The goal of this work is not only to characterize potential microbial profiles, but also to highlight the methodological pitfalls of identifying low-abundance microbial signals in host-focused sequencing experiments. This repository provides a transparent and reproducible framework for researchers working with low-biomass tissues and contributes to ongoing discussions about the validity and interpretation of tumor microbiome studies.
+=======
+The goal of this work is not only to characterize potential microbial profiles, but also to highlight the methodological pitfalls of identifying low-abundance microbial signals in host-focused sequencing experiments. This repository provides a transparent and reproducible framework for researchers working with low-biomass tissues and contributes to ongoing discussions about the validity and interpretation of tumor microbiome studies.
+>>>>>>> 40d6b9481e38c065368c5c25bb35083b4c70baa4
